@@ -35,8 +35,8 @@
 
 <a href= https://github.com/chetna-porwal > <img width ='64px' height='64px' src ="https://cdn-icons-png.flaticon.com/512/888/888859.png" > </a> &emsp; &emsp; &emsp; &emsp; <a href= https://github.com/chetna-porwal > <img width ='64px' height='64px' src ='https://cdn-icons-png.flaticon.com/512/919/919826.png'> </a>&emsp; &emsp; &emsp; &emsp;<a href= https://github.com/chetna-porwal > <img width ='64px' height='64px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png'></a> &emsp; &emsp; &emsp; &emsp;<a href= https://github.com/chetna-porwal > <img width ='64px' height='64px' src='https://symbols.getvecta.com/stencil_88/124_mulesoft-icon.4555ee19ea.svg'></a>  
 
-<h2> Connect with me <a href="https://www.github.com/chetna-porwal"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></a> </h2>
-<a href = 'https://www.linkedin.com/in/chetna-porwal'> <img width = '40px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-64/linkedin-47-189764.png"/></a>&emsp;&emsp;<a href = 'https://www.github.com/chetna-porwal'> <img width = '40px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-64/github-169-1174970.png"/></a>
+<h2> Connect with me<a href="https://www.github.com/chetna-porwal"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"></a> </h2>
+<a href = 'https://www.linkedin.com/in/chetna-porwal'> <img width = '40px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-64/linkedin-189-721962.png"/></a>&emsp;&emsp;<a target="_blank" href="mailto:chetnacp14@gmail.com" ><img width = '40px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-64/gmail-30-722694.png"></img></a>&emsp;&emsp;<a href = 'https://www.github.com/chetna-porwal'> <img width = '40px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-64/github-169-1174970.png"/></a>
 <br>
   <br>
 
